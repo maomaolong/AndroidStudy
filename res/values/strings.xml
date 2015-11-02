@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">ZStudy</string>
+    <string name="text_world">Hello world!</string>
+	<string name="botton_world">我是按钮</string>
+	<string name="hello">Hello World, Activity01!</string>   
+    <string name="ys">您的爱好</string>  
+    <string name="lq">篮球</string>  
+    <string name="zp">足球</string>  
+    <string name="pq">排球</string> 
+    <string name="mul">乘以</string> 
+    <string name="equ">等于</string>
+    <string name="setprogress">调整进度</string>  
+    <string name="boy">男</string> 
+    <string name="girl">女</string>
+    <string name="yourlike">选择你的爱好</string>
+    <string-array name="likearray">
+        <item>篮球</item>
+        <item>足球</item>
+        <item>排球</item>
+    </string-array>
+</resources>
